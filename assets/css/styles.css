@@ -1,0 +1,56 @@
+figure {
+  padding: 15px;
+}
+
+article {
+  display: inline-block !important;
+}
+
+article:hover {
+  cursor: pointer;
+}
+
+.column {
+  box-sizing: content-box;
+  flex-grow: 0 !important;
+}
+
+.columns {
+  justify-content: flex-start;
+  margin-bottom: 0.5% !important;
+  margin-top: 0.5% !important;
+}
+
+.char-title {
+  margin-bottom: 3% !important;
+}
+
+.subtitle {
+  font-size: 1.5rem !important;
+}
+
+.hero {
+  margin-bottom: 1%;
+}
+
+.start {
+  margin-left: 10%;
+}
+
+.hero-body {
+  padding: 1.5rem 1.5rem;
+}
+
+.my-enemy, .my-char, .my-fight {
+  display: none;
+}
+
+.attack {
+  margin-top: 2%;
+  box-sizing: border-box !important;
+  width: 100%;
+}
+
+.title, .subtitle{
+  font-weight: 300;
+}

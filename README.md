@@ -1,1 +1,1 @@
-# starwars_class
+# Celebrity RPG Game
